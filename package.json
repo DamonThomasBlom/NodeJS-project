@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "Practice nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamonThomasBlom/NodeJS-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonThomasBlom/NodeJS-project/issues"
+  },
+  "homepage": "https://github.com/DamonThomasBlom/NodeJS-project#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.0"
+  }
+}
